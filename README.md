@@ -10,12 +10,6 @@ I build and maintain web applications and APIs end-to-end — from database sche
 - 🌍 Languages: English (Full Professional), Nepali (Native)
 - 📫 Reach me at **prashantbhandari893@gmail.com**
 
-[![Your GitHub Stats](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top Langs](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
-
-
-
 ---
 
 ## 🛠️ Tech Stack
