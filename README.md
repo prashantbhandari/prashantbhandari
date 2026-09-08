@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** - PHP / Laravel - React.js - Dharan, Nepal 🇳🇵
 
-I build and maintain web applications and APIs end-to-end — from database schema design and backend architecture to responsive front-end interfaces. Over the past 7+ years I've delivered production systems for international clients, mostly on the Laravel + MySQL + React stack, with Docker for local parity and AWS for hosting.
+I build and maintain web applications and APIs end-to-end from database schema design and backend architecture to responsive front-end interfaces. Over the past 7+ years I've delivered production systems for international clients, mostly on the Laravel + MySQL + React stack, with Docker for local parity and AWS for hosting.
 
 - 🔭 Currently building full-stack applications for international clients at **Gamenic Nalamiz Tech**
 - 🧩 Comfortable across the whole stack: REST/GraphQL APIs, relational data modeling, and modern front ends
@@ -48,17 +48,17 @@ I build and maintain web applications and APIs end-to-end — from database sche
 
 ## 💼 Experience
 
-**Software Developer (Remote)** — Gamenic Nalamiz Tech Pvt Ltd, Bhaktapur
+**Software Developer (Remote)** Gamenic Nalamiz Tech Pvt Ltd, Bhaktapur
 *Feb 2024 – Present*
 
-Full-stack delivery for international clients using Laravel, React.js, and Tailwind CSS — requirements gathering through production deployment. Architect MySQL schemas and scalable REST APIs serving web and mobile front ends, containerize with Docker for consistent environments, and manage infrastructure on AWS (EC2, RDS, S3).
+Full-stack delivery for international clients using Laravel, React.js, and Tailwind CSS requirements gathering through production deployment. Architect MySQL schemas and scalable REST APIs serving web and mobile front ends, containerize with Docker for consistent environments, and manage infrastructure on AWS (EC2, RDS, S3).
 
-**Backend Developer (Hybrid)** — Octoways Pvt Ltd (formerly KTM Labs), Kathmandu
+**Backend Developer (Hybrid)** Octoways Pvt Ltd (formerly KTM Labs), Kathmandu
 *Jun 2019 – Jan 2024*
 
-Built and maintained backend systems and RESTful/GraphQL APIs in PHP (Laravel, Lumen) powering web and mobile applications across multiple client projects. Focused on performance — query tuning, caching, and refactoring — alongside feature delivery and production issue resolution.
+Built and maintained backend systems and RESTful/GraphQL APIs in PHP (Laravel, Lumen) powering web and mobile applications across multiple client projects. Focused on performance, query tuning, caching, and refactoring alongside feature delivery and production issue resolution.
 
-**Web Developer Intern (On-site)** — Vigor Incorporation Pvt Ltd, Itahari
+**Web Developer Intern (On-site)** Vigor Incorporation Pvt Ltd, Itahari
 *Feb 2018 – Aug 2018*
 
 Contributed to client web projects in PHP, JavaScript, and MySQL under senior developer guidance.
@@ -67,7 +67,7 @@ Contributed to client web projects in PHP, JavaScript, and MySQL under senior de
 
 ## 🎓 Education
 
-**B.E. in Computer Engineering** — Institute of Engineering (IOE), Purwanchal Campus, Tribhuvan University
+**B.E. in Computer Engineering** Institute of Engineering (IOE), Purwanchal Campus, Tribhuvan University
 *Sep 2014 – Sep 2018 · Dharan, Nepal*
 
 ---
