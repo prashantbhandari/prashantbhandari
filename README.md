@@ -46,32 +46,6 @@ I build and maintain web applications and APIs end-to-end from database schema d
 
 ---
 
-## 💼 Experience
-
-**Software Developer (Remote)** Gamenic Nalamiz Tech Pvt Ltd, Bhaktapur
-*Feb 2024 – Present*
-
-Full-stack delivery for international clients using Laravel, React.js, and Tailwind CSS requirements gathering through production deployment. Architect MySQL schemas and scalable REST APIs serving web and mobile front ends, containerize with Docker for consistent environments, and manage infrastructure on AWS (EC2, RDS, S3).
-
-**Backend Developer (Hybrid)** Octoways Pvt Ltd (formerly KTM Labs), Kathmandu
-*Jun 2019 – Jan 2024*
-
-Built and maintained backend systems and RESTful/GraphQL APIs in PHP (Laravel, Lumen) powering web and mobile applications across multiple client projects. Focused on performance, query tuning, caching, and refactoring alongside feature delivery and production issue resolution.
-
-**Web Developer Intern (On-site)** Vigor Incorporation Pvt Ltd, Itahari
-*Feb 2018 – Aug 2018*
-
-Contributed to client web projects in PHP, JavaScript, and MySQL under senior developer guidance.
-
----
-
-## 🎓 Education
-
-**B.E. in Computer Engineering** Institute of Engineering (IOE), Purwanchal Campus, Tribhuvan University
-*Sep 2014 – Sep 2018 · Dharan, Nepal*
-
----
-
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashantbhandari893)
