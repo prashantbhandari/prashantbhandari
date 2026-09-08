@@ -10,6 +10,12 @@ I build and maintain web applications and APIs end-to-end — from database sche
 - 🌍 Languages: English (Full Professional), Nepali (Native)
 - 📫 Reach me at **prashantbhandari893@gmail.com**
 
+[![Your GitHub Stats](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
+
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -78,15 +84,6 @@ Owned the complete project lifecycle solo — client requirements, scope negotia
 
 **B.E. in Computer Engineering** — Institute of Engineering (IOE), Purwanchal Campus, Tribhuvan University
 *Sep 2014 – Sep 2018 · Dharan, Nepal*
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prashantbhandari&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantbhandari&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
 
 ---
 
