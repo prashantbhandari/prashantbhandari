@@ -1,6 +1,6 @@
 # Hi, I'm Prashant Bhandari 👋
 
-**Full-Stack Software Engineer** · PHP / Laravel · React.js · Dharan, Nepal 🇳🇵
+**Full-Stack Software Engineer** - PHP / Laravel - React.js - Dharan, Nepal 🇳🇵
 
 I build and maintain web applications and APIs end-to-end — from database schema design and backend architecture to responsive front-end interfaces. Over the past 7+ years I've delivered production systems for international clients, mostly on the Laravel + MySQL + React stack, with Docker for local parity and AWS for hosting.
 
@@ -68,15 +68,6 @@ Built and maintained backend systems and RESTful/GraphQL APIs in PHP (Laravel, L
 *Feb 2018 – Aug 2018*
 
 Contributed to client web projects in PHP, JavaScript, and MySQL under senior developer guidance.
-
----
-
-## 🚀 Projects
-
-### Esahar.com
-*Freelance full-stack web application · PHP, Laravel, MySQL, JavaScript · Mar 2022 – Sep 2022*
-
-Owned the complete project lifecycle solo — client requirements, scope negotiation, database architecture, backend APIs, and front end. Migrated the entire existing WordPress site to Laravel and deployed to production.
 
 ---
 
