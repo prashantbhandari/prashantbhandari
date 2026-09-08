@@ -4,7 +4,7 @@
 
 I build and maintain web applications and APIs end-to-end from database schema design and backend architecture to responsive front-end interfaces. Over the past 7+ years I've delivered production systems for international clients, mostly on the Laravel + MySQL + React stack, with Docker for local parity and AWS for hosting.
 
-- 🔭 Currently building full-stack applications for international clients at **Gamenic Nalamiz Tech**
+- 🔭 Currently building full-stack applications (backend focused) for international clients at **Gamenic Nalamiz Tech**
 - 🧩 Comfortable across the whole stack: REST/GraphQL APIs, relational data modeling, and modern front ends
 - ⚙️ Interested in performance tuning, query optimization, and clean, refactorable codebases
 - 🌍 Languages: English (Full Professional), Nepali (Native)
